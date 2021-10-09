@@ -8,8 +8,9 @@ https://paperwallet.derogold.link
 
 This Project is licensed under AGPL v3.0.
 
-```
-// Copyright (c) 2018, The TurtleCoin Developers
-//
-// Please see the included LICENSE file for more information.
-```
+(c) 2018-2020 TurtlePay® Development Team
+
+(c) 2020-2021 DeroGold Developers
+
+(c) 2021 Alfariqi
+
