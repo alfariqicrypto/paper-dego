@@ -1,6 +1,6 @@
 # DeroGoldCoin Paper Wallet
 
-**TurtleCoin Paper Wallet Generator**
+**DeroGoldCoin Paper Wallet Generator**
 
 https://paperwallet.derogold.link
 
