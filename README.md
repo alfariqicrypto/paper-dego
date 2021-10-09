@@ -1,8 +1,8 @@
-# paper-turtle
+# DeroGoldCoin Paper Wallet
 
 **TurtleCoin Paper Wallet Generator**
 
-https://turtlecoin.lol/wallet
+https://paperwallet.derogold.link
 
 ## LICENSE
 
