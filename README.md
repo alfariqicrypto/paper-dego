@@ -2,6 +2,8 @@
 
 **DeroGoldCoin Paper Wallet Generator**
 
+Just drop the files in a publicly accessible web folder and you've got your own copy of the explorer.
+
 https://paperwallet.derogold.link
 
 ## LICENSE
