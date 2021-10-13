@@ -16,5 +16,5 @@ This Project is licensed under AGPL v3.0.
 ```
 // Copyright (c) 2018, The TurtleCoin Developers
 // Copyright (c) 2018-2021, The DeroGold Association
-// Please see the included LICENSE file for more information.
+// Copyright (c) 2021, Alfariqi
 ```
