@@ -1,6 +1,8 @@
 
 **DeroGoldCoin Paper Wallet Generator**
 
+https://alfariqicrypto.github.io/paper-dego
+
 https://paperwallet.derogold.link
 
 Just drop the files in a publicly accessible web folder and you've got your own copy of the explorer.
@@ -30,7 +32,7 @@ https://cryptonotestarter.org/create-wallet.html
 
 This Project is licensed under AGPL v3.0.
 ```
-// Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2018-2021, The TurtleCoin Developers
 // Copyright (c) 2018-2021, The DeroGold Association
 // Copyright (c) 2021, Alfariqi Crypto
 ```
