@@ -1,3 +1,4 @@
+
 **DeroGoldCoin Paper Wallet Generator**
 
 https://paperwallet.derogold.link
@@ -12,15 +13,15 @@ Replace logo.png with your logo, and that is it!
 
 Example :
 var config = {
-    coinUnitPlaces: 12,
-    coinSymbol: 'BTCMZ',
-    coinName: 'BitcoinMono',
-    coinUriPrefix: 'bitcoinmono:',
-    addressPrefix: 3771344
+	coinUnitPlaces: 12,
+	coinSymbol: 'BTCMZ',
+	coinName: 'BitcoinMono',
+	coinUriPrefix: 'bitcoinmono:',
+	addressPrefix: 3771344
  
- (With AddressPrefix use CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 3771344; // btcm) 
- https://github.com/uaicoin/uaicoin/issues/2
- https://cryptonotestarter.org/create-wallet.html
+With AddressPrefix use CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 3771344; // btcm) 
+https://github.com/uaicoin/uaicoin/issues/2
+https://cryptonotestarter.org/create-wallet.html
 
 ## LICENSE
 
