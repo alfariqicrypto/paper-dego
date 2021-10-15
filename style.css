@@ -51,7 +51,7 @@ body {
   top: 252px;
   width: 260px;
   height: 165px;
-  font-size: 10px;
+  font-size: 11px;
   color: #193039;
   font-weight: 500;
   letter-spacing: 0.05em;
@@ -96,8 +96,6 @@ body {
   margin-bottom: 5px;
 }
 
-
-
 .folding-logo img {
   height: 21px;
   width: auto;
@@ -120,7 +118,6 @@ body {
  .folding-logo-text ul li {
   margin-bottom: 5px;
 }
-
 
 .folding2-logo img {
   height: 19px;
@@ -148,7 +145,6 @@ body {
  .folding2-logo-text ul li {
   margin-bottom: 5px;
 }
-
 
 .folding3-logo img {
   height: 21px;
@@ -180,7 +176,7 @@ body {
 .amount-added-text, .date-text, .note-text {
   position: absolute;
   height: 20px;
-  font-size: 10px;
+  font-size: 12px;
   color: #193039;
   font-weight: 500;
   -ms-transform: rotate(180deg);
@@ -189,6 +185,7 @@ body {
 }
 .amount-added-text, .date-text {
   text-transform: uppercase;
+  font-size: 12px;
 }
 
 .amount-added-text {
@@ -207,12 +204,12 @@ body {
   left: 425px;
   top: 125px;
   width: 200px;
-  font-style: italic;
+  font-style: bold;
 }
 
 .view_key_widget, .qr-view {
   position: absolute;
-  font-size: 10px;
+  font-size: 11px;
   -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
